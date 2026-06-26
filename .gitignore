@@ -1,0 +1,10 @@
+.env
+.env.*
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.joblib
+*.db
+symptom_training.ipynb
